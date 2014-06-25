@@ -6,7 +6,7 @@
 
 - base_view: active_derived_table
 
-- base_view: api_nonce
+- base_view: api_noncy
   joins:
     - join: user
       foreign_key: user_id
