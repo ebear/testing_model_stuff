@@ -7,7 +7,7 @@
     type: int
     sql: ${TABLE}.ID
 
-  - dimension_group: created
+  - dimension_group: creat
     type: time
     timeframes: [time, date, week, month]
     sql: ${TABLE}.CREATED_AT
