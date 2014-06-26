@@ -23,7 +23,6 @@
     detail: detail*
 
 
-  # ----- Detail ------
   sets:
     detail:
       - id
